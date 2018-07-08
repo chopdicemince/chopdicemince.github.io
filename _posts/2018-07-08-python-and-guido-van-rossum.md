@@ -36,7 +36,7 @@ The name "Python" comes from the British comedy show "Monty Python's Flying Circ
 
 # What is CPython?
 
-CPython is an implementation of Python which is written in C. CPython is the main implementation of Python. If you do not know which implentation you are using, probably it is CPython.
+CPython is an implementation of Python which is written in C. CPython is the main implementation of Python. If you do not know which implementation you are using, probably it is CPython.
 
 Suppose that you are using CPython and you type the following command, to run some Python code:
 
