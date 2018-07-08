@@ -49,7 +49,7 @@ Then CPython does the following steps:
 1. CPython translates Python code to an intermediate language, sometimes called (Python) bytecocde. This intermediate language is stored in files that end with the extension ".pyc". You can think of "pyc" as meaning "Python compiled code."
 1. CPython runs the intermediate language in a virtual machine.
 
-CPython is not the only implementation of Python. There are [many implementations of Python which are written in other languages](https://wiki.python.org/moin/PythonImplementations). For example, [Jython](http://www.jython.org/) is an implementation of Python which is written in Java. Jython will translate your Python code to Java bytecode, which is stored in files that end with the extension ".class". Jython will run the Java bytecode in the JVM (Java Virtual Machine).
+CPython is not the only implementation of Python. There are [many implementations of Python which are written in other languages](https://wiki.python.org/moin/PythonImplementations). For example, [Jython](http://www.jython.org/) is an implementation of Python which is written in Java. Jython will translate Python code to Java bytecode, which is stored in files that end with the extension ".class". Jython will run the Java bytecode in the JVM (Java Virtual Machine).
 
 # Who is Guido van Rossum?
 
