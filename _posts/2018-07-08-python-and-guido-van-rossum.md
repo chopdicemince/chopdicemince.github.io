@@ -42,7 +42,7 @@ One change from Python 2 to Python 3 is that the print statement became a functi
 
 ```python
 print 'Hello, world!'
-'''
+```
 
 But in Python 3, the above code fails. The correct code is:
 
