@@ -36,7 +36,7 @@ The name "Python" comes from the British comedy show "Monty Python's Flying Circ
 
 # What is CPython?
 
-CPython is an implementation of Python which is written in C. CPython is the main implementation of Python. If you do not know which implementation you are using, probably it is CPython.
+[CPython](https://github.com/python/cpython) is an implementation of Python which is written in C. CPython is the main implementation of Python. If you do not know which implementation you are using, probably it is CPython.
 
 Suppose that you are using CPython and you type the following command, to run some Python code:
 
@@ -49,7 +49,7 @@ Then CPython does the following steps:
 1. CPython translates Python code to an intermediate language, sometimes called (Python) bytecocde. This intermediate language is stored in files that end with the extension ".pyc". You can think of "pyc" as meaning "Python compiled code."
 1. CPython runs the intermediate language in a virtual machine.
 
-CPython is not the only implementation of Python. There are [many implementations of Python which are written in other languages](https://wiki.python.org/moin/PythonImplementations). For example, Jython is an implementation of Python which is written in Java. Jython will translate your Python code to Java bytecode, and Jython will run the Java bytecode in the JVM (Java Virtual Machine).
+CPython is not the only implementation of Python. There are [many implementations of Python which are written in other languages](https://wiki.python.org/moin/PythonImplementations). For example, [Jython](http://www.jython.org/) is an implementation of Python which is written in Java. Jython will translate your Python code to Java bytecode, and Jython will run the Java bytecode in the JVM (Java Virtual Machine).
 
 # Who is Guido van Rossum?
 
