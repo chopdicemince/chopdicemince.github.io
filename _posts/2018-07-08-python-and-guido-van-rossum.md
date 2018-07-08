@@ -34,6 +34,36 @@ The above code will print 'b' and 'c'.
 
 The name "Python" comes from the British comedy show "Monty Python's Flying Circus," in the 1970s. See [Why is it called Python?¶](https://docs.python.org/3/faq/general.html#id19).
 
+# What are the different versions of Python?
+
+There are two main versions of Python: Python 2 and Python 3. (There are subversions, such as Python 2.7.15 and Python 3.6.5.)
+
+One change from Python 2 to Python 3 is that the print statement became a function, and now requires parentheses. In Python 2, the following code works:
+
+```python
+print 'Hello, world!'
+'''
+
+But in Python 3, the above code fails. The correct code is:
+
+```python
+print('Hello, world!')
+```
+
+Another change from Python 2 to Python 3 is that the division operator now does floating-point division, instead of integer division. In Python 2, the following code prints "True":
+
+```python
+print 3/2 == 1
+```
+
+But in Python 3, the following code prints "True":
+
+```python
+print(3/2 == 1.5)
+```
+
+You should use Python 3, because [Python 2 will stop receiving bug fixes on 2020-01-01](https://www.python.org/dev/peps/pep-0373/).
+
 # What is CPython?
 
 [CPython](https://github.com/python/cpython) is an implementation of Python which is written in C. CPython is the main implementation of Python. If you do not know which implementation you are using, probably it is CPython.
