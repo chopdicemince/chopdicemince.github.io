@@ -10,7 +10,7 @@ date: 2018-07-08
 
 Below is a picture of Van Rossum in 2014 at Dropbox, his workplace. (Dan Stroud took the[ original picture](https://commons.wikimedia.org/wiki/File:Guido-portrait-2014.jpg), which has the license CC-BY-SA-4.0.)
 
-![alt text](https://github.com/chopdicemince/chopdicemince.github.io/blob/master/images/2014-guido-van-rossum-at-dropbox.png '2014: Guido van Rossum at Dropbox')
+![2014: Van Rossum worked at Dropbox](https://github.com/chopdicemince/chopdicemince.github.io/blob/master/images/2014-guido-van-rossum-at-dropbox.png '2014: Van Rossum worked at Dropbox')
 
 Trivia: Van Rossum used to live in Virginia and had a vanity license plate that said "PYTHON."
 
