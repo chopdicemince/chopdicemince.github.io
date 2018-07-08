@@ -8,11 +8,11 @@ date: 2018-07-08
 
 [Guido van Rossum](https://gvanrossum.github.io) is creator of Python. He is from the Netherlands.
 
-Below is a picture of Van Rossum in 2014 at Dropbox, his workplace:
+Below is a picture of Van Rossum in 2014 at Dropbox, his workplace. (Dan Stroud took the[ original picture](https://commons.wikimedia.org/wiki/File:Guido-portrait-2014.jpg), which has the license CC-BY-SA-4.0.)
 
-(https://github.com/chopdicemince/chopdicemince.github.io/blob/master/images/2014-guido-van-rossum-at-dropbox.png '2014: Guido van Rossum at Dropbox')
+![alt text](https://github.com/chopdicemince/chopdicemince.github.io/blob/master/images/2014-guido-van-rossum-at-dropbox.png '2014: Guido van Rossum at Dropbox')
 
-Trivia: He used to live in Virginia and had a vanity license plate that said "PYTHON."
+Trivia: Van Rossum used to live in Virginia and had a vanity license plate that said "PYTHON."
 
 # When was Python created?
 
