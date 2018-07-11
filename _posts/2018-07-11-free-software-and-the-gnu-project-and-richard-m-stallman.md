@@ -18,3 +18,15 @@ date: 2018-07-11
 It is an unfortunate quirk of English that the word "free" can mean both "zero-cost" and "freedom." Some other languages do not have this problem. For example, Spanish uses the phrase "software libre" for "free software," and "software gratis/gratuito" for "zero-cost software."
 
 Sometimes people try to clarify the meaning of "free" in "free software," by saying something like, "'free' as in 'speech' [free speech], not as in 'beer' [free beer]."
+
+# What is UNIX?
+
+UNIX (all capital letters) is a registered trademark of The Open Group. See [UNIX Trademark](http://www.unix.org/trademark.html).
+
+UNIX is a set of operating systems which started in 1969 at Bell Labs, by Ken Thompson and Dennis Ritchie. Ritchie invented the programming langauge C. In 1973, UNIX was re-written in C.
+
+Some versions of macOS (formerly called "Mac OS X"), such as version 10.5, are UNIX. See [Is Mac OS X Unix-Based Operating System..?](https://discussions.apple.com/thread/1762337).
+
+# What is the GNU Project?
+
+"GNU" is a humorous recursive acronym which stands for "GNU's Not Unix!" "GNU" is pronounced somwhat like "canoe" or "renew"---the "G" is not silent.
