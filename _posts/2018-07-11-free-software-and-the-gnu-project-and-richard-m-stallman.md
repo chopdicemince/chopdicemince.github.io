@@ -29,4 +29,16 @@ Some versions of macOS (formerly called "Mac OS X"), such as version 10.5, are U
 
 # What is the GNU Project?
 
-"GNU" is a humorous recursive acronym which stands for "GNU's Not Unix!" "GNU" is pronounced somwhat like "canoe" or "renew"---the "G" is not silent.
+"GNU" is a humorous recursive acronym which stands for "GNU's Not Unix" "GNU" is pronounced somwhat like "canoe" or "renew"---the "G" is not silent.
+
+The GNU Project is a project, started in 1984, to create an operating system which contained only free software. (Note: Unix is not free software).
+
+# Who is Richard M. Stallman?
+
+[Richard M. Stallman](https://www.stallman.org/) started the GNU Project.
+
+In addition, Stallman started writing two famous GNU programs: the text editor [GNU Emacs](https://www.gnu.org/software/emacs/), and GCC, the [GNU Compiler Collection](https://gcc.gnu.org/), which compiles C, C++, Objective-C, Fortran, Ada, and Go.
+
+
+
+
