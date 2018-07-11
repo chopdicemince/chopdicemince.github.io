@@ -13,8 +13,8 @@ date: 2018-07-11
 * You have the freedom to redistribute copies, either gratis or for a fee.
 * You have the freedom to distribute modified versions of the program, so that the community can benefit from your improvements.
 
-(The above list is from [The GNU Project](https://www.gnu.org/gnu/thegnuproject.en.html).
+(The above four freedoms are verbatim from [The GNU Project](https://www.gnu.org/gnu/thegnuproject.en.html).)
 
 It is an unfortunate quirk of English that the word "free" can mean both "zero-cost" and "freedom." Some other languages do not have this problem. For example, Spanish uses the phrase "software libre" for "free software," and "software gratis/gratuito" for "zero-cost software."
 
-Sometimes people try to clarify the meaning of "free" in "free software," by saying something like, "'free' as in speech [free speech], not as in beer [free beer]."
+Sometimes people try to clarify the meaning of "free" in "free software," by saying something like, "'free' as in 'speech' [free speech], not as in 'beer' [free beer]."
