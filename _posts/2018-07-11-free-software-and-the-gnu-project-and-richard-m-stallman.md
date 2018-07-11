@@ -39,6 +39,26 @@ The GNU Project is a project, started in 1984, to create an operating system whi
 
 In addition, Stallman started writing two famous GNU programs: the text editor [GNU Emacs](https://www.gnu.org/software/emacs/), and GCC, the [GNU Compiler Collection](https://gcc.gnu.org/), which compiles C, C++, Objective-C, Fortran, Ada, and Go.
 
+# What is the GNU General Public License (GPL)?
 
+The GNU GPL is a famous license for free software. The newest version is version 3, sometimes written as [GNU GPLv3](https://www.gnu.org/licenses/gpl.html).
 
+However, there are other licenses for free software.
 
+# What is a kernel?
+
+Simply, the word "kernel" means "core." A kernel of an operating system is the part which communicates with the hardware (processor, memory, disk network, ...).
+
+# What is Linux?
+
+[Linux](https://www.kernel.org/) is a kernel. Linux is free software, because it uses the GNU GPL version 2. [The code for Linux is on GitHub](https://github.com/torvalds/linux).
+
+# Who is Linus Torvalds?
+
+[Linux Torvalds](https://www.britannica.com/biography/Linus-Torvalds) started writing Linux in 1991, while he was a student at the University of Helsinki, in Finland. Since then, many people have contributed code to Linux.
+
+# What is GNU/Linux?
+
+"GNU/Linux" (pronounced "GNU Linux", or "GNU slash Linux," or "GNU plus Linux") is any operating system which uses programs from the GNU Project and a Linux kernel. For example, [Android](https://www.android.com/), a popular operating system for phones, is GNU/Linux.
+
+Unfortunately, people often use "Linux" to refer to the operating system. I do not believe that this is right, because it ignores the GNU Project.
