@@ -6,7 +6,7 @@ date: 2018-07-12
 
 # What is Lisp? Who is John McCarthy?
 
-"Lisp" stands for "List processing." Lisp is a programming language invented in 1958, by John McCarthy.
+"Lisp" stands for "List processing." Lisp is a programming language invented by John McCarthy, in 1956, 1957, or 1958, depending on how we define "invented."
 
 When McCarthy invented Lisp, he was an assistant professor of communications sciences (in electrical engineering) at MIT. At the same time, he started the MIT Artificial Intelligence Project.
 
