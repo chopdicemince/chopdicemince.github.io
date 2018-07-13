@@ -10,4 +10,4 @@ date: 2018-07-12
 
 When McCarthy invented Lisp, he was an assistant professor of communications sciences (in electrical engineering) at MIT. At the same time, he started the MIT Artificial Intelligence Project.
 
-For an autobiographical history of Lisp, see [History of Lisp (1979-02-12)](jmc.stanford.edu/articles/lisp/lisp.pdf).
+For an autobiographical history of Lisp, see [History of Lisp (1979-02-12)](http://jmc.stanford.edu/articles/lisp/lisp.pdf).
