@@ -23,6 +23,6 @@ Some characteristics of Haskell are:
 
 # Who is Haskell Brooks Curry?
 
-Haskell Brooks Curry (1900---1982) was a United States mathematician in logic. The Haskell programming language is named after him.
+[Haskell Brooks Curry](https://www.britannica.com/biography/Haskell-Brooks-Curry) (1900---1982) was a United States mathematician in logic. The Haskell programming language is named after him.
 
 Ironically, Virginia Curry, his widow, said, “You know, Haskell actually never liked the name 'Haskell.'” She told this to people who asked for her permission to use "Haskell" as the name of the programming language.
