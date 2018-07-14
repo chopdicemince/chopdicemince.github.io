@@ -12,7 +12,7 @@ Open Python and type:
 import antigravity
 ```
 
-If you have network access, a brower window will open and go to the well-known comic strip XKCD, by Randall Munroe, whose topics inlcude math, science, and programming. The web page will be a particular [comic strip about how Python is better than Perl](https://xkcd.com/353/). 
+If you have network access, a brower window will open and go to the well-known comic strip [XKCD](https://xkcd.com/), by Randall Munroe, whose topics inlcude math, science, and programming. The web page will be a particular [comic strip about how Python is better than Perl](https://xkcd.com/353/). 
 
 If you stop your mouse pointer over the strip for a few seconds, a tooltip will appear:
 
@@ -20,7 +20,7 @@ If you stop your mouse pointer over the strip for a few seconds, a tooltip will 
 Tooltip: I wrote 20 short programs in Python yesterday. It was wonderful. Perl, I'm leaving you.
 ```
 
-The text of the commic strip is below:
+The text of the comic strip is below:
 
 ```
 Person A: You're flying! How?
@@ -33,3 +33,5 @@ Person B: I just typed "import antigravity". [Note: Possibly this comment is say
 Person A: That's it?
 Person B: ...I also sampled everything in in the medicine cabinet for comparison. But I think this is the Python.
 ```
+
+The joke is that Python makes things so easy---if you want to fly, just type "import antigravity".
