@@ -15,7 +15,7 @@ Some characteristics of Haskell are:
 
 * Haskell is a functional programming language. In other words, a function is a value like any other, like an integer. One of the goals for creating Haskell was to merge a number of then-existing functional programming languages.
 
-* Haskell is lazy, also called "non-strict" or "call-by-need." (The opposites are "strict" or "call-by-value.") A programming language is lazy if it delays evaluating an expression until the evaluation is needed.
+* Haskell is lazy, also called "non-strict" or "call-by-need." (The opposites are "strict" or "call-by-value.") A programming language is lazy if it delays evaluating an expression for as long as possible.
 
 * Haskell is pure. A programming language is pure if calling a function has no side effects. In other words, calling the function will not read or write any variables, and will have no input or output.
 
