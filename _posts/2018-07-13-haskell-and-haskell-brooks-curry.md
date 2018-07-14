@@ -26,3 +26,9 @@ Some characteristics of Haskell are:
 [Haskell Brooks Curry](https://www.britannica.com/biography/Haskell-Brooks-Curry) (1900---1982) was a United States mathematician in logic. The Haskell programming language is named after him.
 
 Ironically, Virginia Curry, his widow, said, “You know, Haskell actually never liked the name 'Haskell.'” She told this to people who asked for her permission to use "Haskell" as the name of the programming language.
+
+# What is function currying?
+
+To curry a function (of two or more arguments) means to write the function as a function of one fewer agrument, applied to one argument. For example, we could curry a function f(x, y) by writing it as some function g(x)(y). Or we could curry a function h(x, y, z) by writing it as some function i(x, y)(z).
+
+[In Haskell, all functions are curried.](https://wiki.haskell.org/Currying) In other words, all functions have exactly one argument.
