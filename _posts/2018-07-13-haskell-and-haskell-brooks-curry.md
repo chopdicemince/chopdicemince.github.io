@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Haskell, Haskell Curry
+title: Haskell, Haskell Brooks Curry
 date: 2018-07-13
 ---
 
