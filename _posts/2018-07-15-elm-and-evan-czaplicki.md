@@ -10,7 +10,7 @@ date: 2018-07-15
 
 Elm is a functional langauge that compiles to Javascript. Elm has types.
 
-[Elm is a project on GitHub](https://github.com/elm/elm-lang.org)
+[Elm is a project on GitHub](https://github.com/elm/elm-lang.org).
 
 [Czaplicki explained the reason for the name "Elm"](https://groups.google.com/forum/#!msg/elm-discuss/S4zbHJWPXvU/JyavEHDDQucJ):
 
