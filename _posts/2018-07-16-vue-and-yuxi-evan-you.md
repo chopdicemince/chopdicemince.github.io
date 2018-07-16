@@ -4,7 +4,7 @@ title: Vue, Yuxi ("Evan") You
 date: 2018-07-16
 ---
 
-# What is Vue? Who is Yuxi ("Evan") You?
+# What is Vue? Who is Evan You?
 
 [Vue (Vue.js)](https://vuejs.org/) (pronounced "view") is a Javascript framework created in 2013 by [Yuxi ("Evan") You](https://twitter.com/youyuxi).
 
