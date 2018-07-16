@@ -14,7 +14,7 @@ Evan You is a native of China. His hometown is Wuxi, which is near Shanghai. He 
 
 # How did Vue start?
 
-Evan You used to work at Google:
+Evan You worked at Google Creative Lab. He spoke about how Angular motivated Vue:
 
 > I figured, what if I could just extract the part that I really liked about Angular and build something really lightweight without all the extra concepts involved? I was also curious as to how its internal implementation worked. I started this experiment just trying to replicate this minimal feature set, like declarative data binding. That was basically how Vue started.
 
@@ -22,4 +22,4 @@ The above quote is from [Between the Wires: An interview with Vue.js creator Eva
 
 # How does Vue make money?
 
-Vue makes some money by [monthly donations on Patreon](https://www.patreon.com/evanyou).
+Vue makes some money from [monthly donations on Patreon](https://www.patreon.com/evanyou).
