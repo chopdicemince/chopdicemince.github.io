@@ -19,3 +19,19 @@ React uses an [MIT license](https://github.com/facebook/react/blob/master/LICENS
 [The X11 license is compatible with the GNU General Public License version 3.](https://www.gnu.org/licenses/license-list.html#X11License)
 
 [React is a project on GitHub](https://github.com/facebook/react).
+
+# What is the DOM?
+
+Note: People say "the DOM," not "a DOM."
+
+"DOM" stands for "Document Object Model." Simply, for an HTML file, the DOM is a tree of all the HTML tags.
+
+A more-detailed definition is below. The definition is verbatim (except for links) from [What is the Document Object Model?](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html):
+
+> The Document Object Model (DOM) is an application programming interface (API) for valid HTML and well-formed XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated...With the Document Object Model, programmers can build documents, navigate their structure, and add, modify, or delete elements and content. Anything found in an HTML or XML document can be accessed, changed, deleted, or added using the Document Object Model, with a few exceptions
+
+# How does React work?
+
+For more detail, see 
+
+* [React's Architecture](https://conferences.oreilly.com/oscon/oscon2014/public/schedule/detail/34568), by Christopher Chedeau, at Facebook, 2014-07-24.
