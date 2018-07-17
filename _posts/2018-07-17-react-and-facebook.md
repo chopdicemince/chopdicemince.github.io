@@ -32,6 +32,14 @@ A more-detailed definition is below. The definition is verbatim (except for link
 
 # How does React work?
 
-For more detail, see 
+React uses a "virtual/intermediate DOM" to minimize changes from the "previous DOM" to the "next DOM." Suppose that we have two trees, each with n nodes, and we want to change one tree to the other. Such an alorithm has order n cubed. However, React uses an algorithm with order n, by using two hueristics:
+
+1. Two elements of different types will produce different trees.
+
+2. The developer can hint at which child elements may be stable across different renders with a key prop.
+
+For more detail, see:
 
 * [React's Architecture](https://conferences.oreilly.com/oscon/oscon2014/public/schedule/detail/34568), by Christopher Chedeau, at Facebook, 2014-07-24.
+
+* [Reconciliation](https://reactjs.org/docs/reconciliation.html)
