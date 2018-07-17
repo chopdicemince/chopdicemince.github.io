@@ -16,4 +16,6 @@ For more history about React, see [The History of React.js on a Timeline](https:
 
 React uses an [MIT license](https://github.com/facebook/react/blob/master/LICENSE), specifically, the [X11 license](https://directory.fsf.org/wiki/License:X11). Simply, anyone can use React, for any purpose.
 
-[The X11 license is compatible with the GNU General Public License version 3.](https://www.gnu.org/licenses/license-list.html#GNUGPL)
+[The X11 license is compatible with the GNU General Public License version 3.](https://www.gnu.org/licenses/license-list.html#X11License)
+
+[React is a project on GitHub](https://github.com/facebook/react).
