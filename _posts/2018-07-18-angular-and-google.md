@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angular
+title: Angular, Google
 date: 2018-07-18
 ---
 
