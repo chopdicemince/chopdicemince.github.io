@@ -14,7 +14,7 @@ A "distribution," sometimes called just "distro," is a GNU/Linux operating syste
 
 [Free software is software that respects the freedom of users.](https://www.gnu.org/philosophy/free-sw.html) Free software can be zero-cost, but it does not have to be zero-cost.
 
-A GNU/Linux distribution is a large collection of code. It is possible that a code added non-free software, possibly because the coder thought that that the non-free software would be convenient for users.
+A GNU/Linux distribution is a large collection of code. It is possible that a coder added non-free software, possibly because the coder thought that that the non-free software would be convenient for users.
 
 # Which GNU/Linux distributions are totally free?
 
