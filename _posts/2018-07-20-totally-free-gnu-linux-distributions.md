@@ -18,7 +18,7 @@ A GNU/Linux distribution is a large collection of code. It is possible that a co
 
 # Which GNU/Linux distributions are totally free?
 
-[The Free Software Foundation endorses a small number of GNU/Linux distributions, because they are totally free](https://www.gnu.org/distros/free-distros.en.html):
+[The Free Software Foundation endorses a small number of GNU/Linux distributions, because they are (or try to be) totally free](https://www.gnu.org/distros/free-distros.en.html):
 
 GNU/Linux distributions for desktops or laptops:
 
@@ -37,3 +37,4 @@ GNU/Linux distributions for embedded devices:
 * [libreCMC](http://librecmc.org/)
 * [ProteanOS](http://proteanos.com/)
 
+[The Free Software Foundation explains why they do not endorse various other GNU/Linux distributions and operating systems.](https://www.gnu.org/distros/common-distros.html)
