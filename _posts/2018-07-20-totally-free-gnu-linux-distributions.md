@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Totally-free operating systems
+title: Totally-free GNU/Linux distributions
 date: 2018-07-20
 ---
 
@@ -18,7 +18,7 @@ A GNU/Linux distribution is a large collection of code. It is possible that a co
 
 # Which GNU/Linux distributions are totally free?
 
-[The Free Software Foundation endorses a small number of GNU/Linux distributions, because they are totally free.](https://www.gnu.org/distros/free-distros.en.html):
+[The Free Software Foundation endorses a small number of GNU/Linux distributions, because they are totally free](https://www.gnu.org/distros/free-distros.en.html):
 
 GNU/Linux distributions for desktops or laptops:
 
