@@ -14,6 +14,6 @@ Think of an operating system as a walnut (or some other piece of fruit). The mos
 
 # How do I determine which shell I am using?
 
-Type ```echo $0```, which will show the currently running shell. The result will be something like ```sh``` or ```/bin/bash```.
+Type ```echo $0```, which will print the name of the currently running shell, something like ```sh``` or ```/bin/bash```.
 
-Note: typing ```echo $SHELL``` will give the default shell, which might not be currently running shell.
+Note: typing ```echo $SHELL``` will print the name of the default shell, which might not be currently running shell.
