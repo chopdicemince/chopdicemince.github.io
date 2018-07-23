@@ -6,11 +6,9 @@ date: 2018-07-22
 
 # What is a shell?
 
-A shell is a special program on an operating system which allows the user to type and run commands.
+A shell is a special program on an operating system which allows you to type and run commands. For example, a shell allows you to view files.
 
-For example, a shell may allow a user to create or delete files.
-
-Think of an operating system as a walnut (or some other piece of fruit). The most important part of the operating system is the kernel (the kernel/center of the walnut), which controls the hardware. The least important part of the operating system is the shell program (the shell/outside of the walnut), which communicates with the user.
+Think of an operating system as a walnut (or some other piece of fruit). The most important part of the operating system is the kernel (the kernel/center of the walnut), which controls the hardware. You are outside the operating system. The shell program is like the shell of the walnut. You can use the shell program to communicate with the operating system.
 
 # How do I determine which shell I am using?
 
