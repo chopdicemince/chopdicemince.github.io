@@ -14,4 +14,4 @@ Think of a walnut. The shell of a walnut separates the walnut from the rest of t
 
 Type ```echo $0```, which will print the name of the currently running shell, something like ```sh``` or ```/bin/bash```.
 
-Note: typing ```echo $SHELL``` will print the name of the default shell, which might not be currently running shell.
+Note: typing ```echo $SHELL``` will print the name of the default shell, which might not be the currently running shell.
