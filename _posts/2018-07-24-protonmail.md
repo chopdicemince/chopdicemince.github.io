@@ -24,8 +24,8 @@ The web page of ProtonMail lists some benefits:
 
 # How does ProtonMail make money?
 
-[Proton mail has various account plans.](https://protonmail.com/signup) The basic account plan is zero-cost. Other account plans have a monthly cost (but if you pay for a whole year at once, you get a discount).
+[Proton mail has various account plans.](https://protonmail.com/signup) The basic account plan is zero-cost. Other account plans have a monthly cost, but if you pay for a whole year at once, you get a discount.
 
 # How is ProtonMail related to Cambridge Analytica?
 
-Around 2018-07-21, there was a news story about a company Cambridge Analytica, a company which maliciously collected data on 50 million Facebook users. Cambridge Analytica used a feature of ProtonMail which makes emails self-destruct after a certain time period. (This feature is available only for emails sent between two ProtonMail accounts.) For more information, see [What is ProtonMail, the service used by Cambridge Analytica to cover its tracks?](https://mashable.com/2018/03/21/what-is-protonmail/#VvovsFJz1iqF)
+Around 2018-07-21, there was a news story about the company Cambridge Analytica, which maliciously collected data on 50 million Facebook users. Cambridge Analytica used a feature of ProtonMail which makes emails self-destruct after a certain time period. (This feature is available only for emails sent between two ProtonMail accounts.) For more information, see [What is ProtonMail, the service used by Cambridge Analytica to cover its tracks?](https://mashable.com/2018/03/21/what-is-protonmail/#VvovsFJz1iqF)
