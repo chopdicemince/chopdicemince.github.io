@@ -6,7 +6,9 @@ date: 20187-07-26
 
 # What is Erlang? Who is Joe Armstrong?
 
-Erlang is a programming language created in 1986 by Joe Armstrong, at the Ericsson Computer Science Laboratory. See [Inside Erlang – creator Joe Armstrong tells his story](https://www.erlang.org/about).
+[Erlang](https://www.erlang.org/) is a programming language created in 1986 by Joe Armstrong, at the Ericsson Computer Science Laboratory. See [Inside Erlang – creator Joe Armstrong tells his story](https://www.erlang.org/about). The Erlang home page says:
+
+> Erlang is a programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance.
 
 # Who uses Erlang?
 
