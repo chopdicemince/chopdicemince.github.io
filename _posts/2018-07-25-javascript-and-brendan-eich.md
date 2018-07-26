@@ -18,4 +18,4 @@ See [A Brief History of JavaScript, talk by Brendan Eich (creator of JavaScript)
 
 # What is ECMAScript?
 
-ECMAScript is a registered trademark. Simply, ECMAScript is another name for Javascript. [See the language specification for ECMASCript 2018.](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+ECMAScript is a registered trademark. Simply, ECMAScript is another name for Javascript. [See the language specification for ECMAScript 2018.](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
