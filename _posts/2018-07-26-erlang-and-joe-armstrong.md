@@ -14,6 +14,6 @@ date: 20187-07-26
 
 Around 2014-10-06, Facebook bought WhatsApp, a messaging app, for 19 billion dollars. Ten programmers used Erlang to write WhatsApp. See [Facebook Closes $19 Billion WhatsApp Deal](https://www.forbes.com/sites/parmyolson/2014/10/06/facebook-closes-19-billion-whatsapp-deal/#6038ac1d5c66).
 
-Joe Armstrong, who created Erlang at Ericsson, says that at Ericsson, many LTE and 3G phones are programmed in Erlang.
+[Joe Armstrong, who created Erlang at Ericsson, says that at Ericsson, many LTE and 3G phones are programmed in Erlang.](https://www.erlang.org/about)
 
-Apache [CouchDB](https://couchdb.apache.org/) is a database that is programmed in Erlang. CERN (Conseil Européen pour la Recherche Nucléaire, European Counsel for the Nuclear Research) used CouchDB to discover the Higgs boson. See [Moving From Oracle to CouchDB: Data Management at CERN](https://developer.ibm.com/dwblog/2013/oracle-couchdb-data-management/).
+Apache [CouchDB](https://couchdb.apache.org/) is a database that is programmed in Erlang. [CERN](https://home.cern/) (Conseil Européen pour la Recherche Nucléaire, European Counsel for the Nuclear Research) used CouchDB to discover the Higgs boson. See [Moving From Oracle to CouchDB: Data Management at CERN](https://developer.ibm.com/dwblog/2013/oracle-couchdb-data-management/).
