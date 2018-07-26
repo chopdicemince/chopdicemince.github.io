@@ -14,7 +14,7 @@ See [A Brief History of JavaScript, talk by Brendan Eich (creator of JavaScript)
 
 # What is Ecma/ECMA?
 
-[Ecma/ECMA is the European Computer Manufacturers Assocation.](https://www.ecma-international.org/)
+[Ecma/ECMA is the European Computer Manufacturers Association.](https://www.ecma-international.org/)
 
 # What is ECMAScript?
 
