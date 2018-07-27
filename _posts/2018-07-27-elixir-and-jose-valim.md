@@ -23,4 +23,4 @@ See the following interviews with Valim:
 
 # What is the license of Elixir?
 
-[Elixir is a project on GitHub.](https://github.com/elixir-lang/elixir) [Elxir uses the Apache License 2.0.](https://github.com/elixir-lang/elixir/blob/master/LICENSE)
+[Elixir is a project on GitHub.](https://github.com/elixir-lang/elixir) [Elixir uses the Apache License 2.0.](https://github.com/elixir-lang/elixir/blob/master/LICENSE)
