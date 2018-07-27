@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Erlang, Joe Armstrong
-date: 20187-07-26
+date: 2018-07-26 (Modified 2018-07-27)
 ---
 
 # What is Erlang? Who is Joe Armstrong?
