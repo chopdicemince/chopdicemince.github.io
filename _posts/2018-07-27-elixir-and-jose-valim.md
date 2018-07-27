@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elixir, José Valim
-date: 3018-07-27
+date: 2018-07-27
 ---
 
 # What is Elixir? Who is José Valim?
