@@ -6,7 +6,7 @@ date: 2018-07-27
 
 # What is Elixir? Who is José Valim?
 
-[Elixir](https://elixir-lang.org/) is a programming language created in 2012 by José Valim, who is from Brazil and lives in Poland.
+[Elixir](https://elixir-lang.org/) is a programming language created in 2012 by [José Valim](https://github.com/josevalim), who is from Brazil and lives in Poland.
 
 Valim programmed in [Ruby](https://www.ruby-lang.org/en/), but he noticed that Ruby did not have good support for concurrency (for using multiple threads and multiple cores). Valim liked [Erlang](https://www.erlang.org/), but wanted to use ideas from other languages. So he created Elixir, which runs on the Erlang vritual machine. The home page for Elixir says:
 
@@ -20,3 +20,7 @@ See the following interviews with Valim:
 
 * 2014-11-30. [José Valim on the Elixir Language, Concurrency, Iteration](https://www.infoq.com/interviews/valim-elixir)
 * 2015-11-30. [An Interview with Elixir Creator José Valim](https://www.sitepoint.com/an-interview-with-elixir-creator-jose-valim/)
+
+# What is the license of Elixir?
+
+[Elixir is a project on GitHub.](https://github.com/elixir-lang/elixir) [Elxir uses the Apache License 2.0.](https://github.com/elixir-lang/elixir/blob/master/LICENSE)
