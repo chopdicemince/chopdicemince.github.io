@@ -10,7 +10,7 @@ Smalltalk is a programming language created in the 1970's at Xerox Palo Alto Res
 
 Smalltalk was one of the first object-oriented programming languages.
 
-Steve Jobs was a co-founder of Apple. He visited Xerox PARC and saw a Smalltalk graphical user interface (GUI). Apple copied the GUI and created Macintosh GUI.
+Steve Jobs was a co-founder of Apple. He visited Xerox PARC and saw a Smalltalk graphical user interface (GUI). Apple copied the GUI and created the Macintosh GUI.
 
 See [Smalltalk: A White Paper Overview](https://web.cecs.pdx.edu/~harry/musings/SmalltalkOverview.html).
 
