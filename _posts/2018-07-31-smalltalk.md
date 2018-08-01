@@ -6,7 +6,7 @@ date: 2018-07-31
 
 # What is Smalltalk?
 
-Smalltalk is a programming language created in the 1970's at Xerox Palo Alto Research Center (Xerox PARC). [Alan Kay](https://www.britannica.com/biography/Alan-Kay) was one of the creators. One goal of Smalltalk was to be a programming language which young people could learn.
+Smalltalk is a programming language created in the 1970's at Xerox Palo Alto Research Center (Xerox PARC). [Alan Kay](https://www.britannica.com/biography/Alan-Kay) was one of the creators. One goal of Smalltalk was that young people could learn it.
 
 Smalltalk was one of the first object-oriented programming languages.
 
