@@ -39,3 +39,19 @@ As of 2008, Objective-C was the main language for creating applications for iOS,
 As of 2012, Objective-C was one of the main languages for creating applications for macOS.
 
 See [Introduction To Objective-C](https://www.cs.colorado.edu/~kena/classes/5448/f12/lectures/13-introtoobjectivec.pdf).
+
+# What does Objective-C look like?
+
+Objective-C uses the keyword ```#import```, which is like ```#include``` in C, except that Objective-C will include header files exactly once.
+
+Objective-C sometimes has names begining with "NS", which stands for "NeXTSTEP." Examples of such names are NSLog (the print function), NSObject, and NSString.
+
+The keyword ```@interface``` indicates the start of a class. The keywords ```@end``` indicates the end of a class.
+
+A class has two files:
+
+1. A header file has the extension ".h" ("header"). It contains the instance variables and method signatures.
+
+2. An implemntation file has the extension ".m" ("implementation"). It contains the method bodies.
+
+The keywords ```@property``` defines three things: an instance variable, a getter, and a setter.
