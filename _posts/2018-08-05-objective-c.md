@@ -46,7 +46,7 @@ Objective-C uses the keyword ```#import```, which is like ```#include``` in C, e
 
 Objective-C sometimes has names begining with "NS", which stands for "NeXTSTEP." Examples of such names are NSLog (the print function), NSObject, and NSString.
 
-The keyword ```@interface``` indicates the start of a class. The keywords ```@end``` indicates the end of a class.
+The keyword ```@interface``` indicates the start of a class. The keyword ```@end``` indicates the end of a class.
 
 A class has two files:
 
