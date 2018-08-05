@@ -34,6 +34,6 @@ At Apple, Objective-C is used for Cocoa, which is a set of two libraries:
 
 2. The AppKit library has classes for creating applications.
 
-On iOS, AppKit is replaced by UIKit, and "Cocoa" is called "Cocoa touch."
+On iOS, AppKit is replaced by UIKit ("User Interface Kit"), and "Cocoa" is called "Cocoa touch."
 
 See [Introduction To Objective-C](https://www.cs.colorado.edu/~kena/classes/5448/f12/lectures/13-introtoobjectivec.pdf).
