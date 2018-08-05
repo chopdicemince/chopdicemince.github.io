@@ -52,7 +52,7 @@ A class has two files:
 
 1. A header file has the extension ".h" ("header"). It contains instance variables and method signatures.
 
-2. An implemntation file has the extension ".m" ("implementation"). It contains method bodies.
+2. An implementation file has the extension ".m" ("implementation"). It contains method bodies.
 
 The keywords ```@property``` defines three things: an instance variable, a getter, and a setter.
 
