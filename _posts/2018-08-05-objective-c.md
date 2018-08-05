@@ -42,7 +42,7 @@ See [Introduction To Objective-C](https://www.cs.colorado.edu/~kena/classes/5448
 
 # What does Objective-C look like?
 
-Objective-C uses the keyword ```#import```, which is like ```#include``` in C, except that Objective-C will include header files exactly once.
+Objective-C uses the keyword ```#import```, which is like ```#include``` in C, except that ```#import``` includes header files exactly once.
 
 Objective-C sometimes has names begining with "NS", which stands for "NeXTSTEP." Examples of such names are NSLog (the print function), NSObject, and NSString.
 
@@ -50,8 +50,10 @@ The keyword ```@interface``` indicates the start of a class. The keywords ```@en
 
 A class has two files:
 
-1. A header file has the extension ".h" ("header"). It contains the instance variables and method signatures.
+1. A header file has the extension ".h" ("header"). It contains instance variables and method signatures.
 
-2. An implemntation file has the extension ".m" ("implementation"). It contains the method bodies.
+2. An implemntation file has the extension ".m" ("implementation"). It contains method bodies.
 
 The keywords ```@property``` defines three things: an instance variable, a getter, and a setter.
+
+See [Introduction To Objective-C](https://www.cs.colorado.edu/~kena/classes/5448/f12/lectures/13-introtoobjectivec.pdf).
