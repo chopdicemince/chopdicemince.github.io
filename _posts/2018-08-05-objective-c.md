@@ -18,9 +18,7 @@ In 1985, Steve Jobs was fired from Apple, after a power struggle with CEO John S
 
 In 1988, NeXT licensed Objective-C, using it to write its operating system, called NeXTSTEP.
 
-In 1996, Apple bought NeXT. Apple turned NeXTSTEP into Mac OS X, which was released in 2000.
-
-As of 2008, Objective-C was the main language for writing programs for iOS, for the iPhone and iPad.
+In 1996, Apple bought NeXT. Apple turned NeXTSTEP into Mac OS X (now called macOS), which was released in 2000.
 
 See [Introduction To Objective-C](https://www.cs.colorado.edu/~kena/classes/5448/f12/lectures/13-introtoobjectivec.pdf).
 
@@ -35,5 +33,9 @@ At Apple, Objective-C is used for Cocoa, which is a set of two libraries:
 2. The AppKit library has classes for creating applications.
 
 On iOS, AppKit is replaced by UIKit ("User Interface Kit"), and "Cocoa" is called "Cocoa touch."
+
+As of 2008, Objective-C was the main language for creating applications for iOS, for the iPhone and iPad.
+
+As of 2012, Objective-C was one of the main languages for creating applications for macOS.
 
 See [Introduction To Objective-C](https://www.cs.colorado.edu/~kena/classes/5448/f12/lectures/13-introtoobjectivec.pdf).
