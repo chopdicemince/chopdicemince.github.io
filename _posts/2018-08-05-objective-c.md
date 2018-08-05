@@ -6,7 +6,7 @@ date: 2018-08-05
 
 # What is Objective-C?
 
-Objective-C is an programming language created in the early 1980's by Brad Cox.
+Objective-C is a programming language created in the early 1980's by Brad Cox.
 
 Objective-C adds a small set of features to C to make it object-oriented.
 
@@ -32,7 +32,7 @@ At Apple, Objective-C is used for Cocoa, which is a set of two libraries:
 
 1. The Foundation library has classes for "foundation" objects such as strings and arrays.
 
-2. The AppKit library has classes for creating applicattions.
+2. The AppKit library has classes for creating applications.
 
 On iOS, AppKit is replaced by UIKit, and "Cocoa" is called "Cocoa touch."
 
