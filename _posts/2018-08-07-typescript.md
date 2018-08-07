@@ -20,4 +20,4 @@ The home page of TypeScript describes TypeScript as:
 
 # Who uses TypeScript?
 
-For example, [Google uses TypeScript to write Angular](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8), a JavaScript framework.
+For example, [Google uses TypeScript to write Angular](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8), a JavaScript framework. See the [home page of Angular](https://angularjs.org/).
