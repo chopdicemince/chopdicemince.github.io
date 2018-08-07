@@ -6,7 +6,7 @@ date: 2018-08-07
 
 # What is TypeScript?
 
-[TypeSript](https://www.typescriptlang.org/index.html) is a programming language created by Microsoft, first released in 2012.
+[TypeScript](https://www.typescriptlang.org/index.html) is a programming language created by Microsoft, first released in 2012.
 
 The home page of TypeScript describes TypeScript as:
 
