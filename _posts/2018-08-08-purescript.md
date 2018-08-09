@@ -6,7 +6,7 @@ date: 2018-08-08
 
 # What is PureScript? Who is Phil Freeman?
 
-[PureScript](http://www.purescript.org/) is a programming language created in 2013 by Phil Freeman. See [PureScript by Example](https://leanpub.com/purescript) and [Frontend Development in Purescript](bobkonf.de/2016/slides/karg.pdf).
+[PureScript](http://www.purescript.org/) is a programming language created in 2013 by Phil Freeman. See [Frontend Development in Purescript](http://bobkonf.de/2016/slides/karg.pdf).
 
 Phil Freeman wrote a book called [PureScript by Example](https://leanpub.com/purescript). He describes PureScript as:
 
@@ -16,6 +16,4 @@ Phil Freeman wrote a book called [PureScript by Example](https://leanpub.com/pur
 
 # What is the license of PureScript?
 
-[PureScript is a project on GitHub.](https://github.com/purescript/purescript) [PureScript uses many licenses.](https://github.com/purescript/purescript/blob/master/LICENSE)
-
-
+[PureScript is a project on GitHub.](https://github.com/purescript/purescript) [PureScript has many licenses](https://github.com/purescript/purescript/blob/master/LICENSE), because it uses many Haskell libraries, with their individual licenses.
