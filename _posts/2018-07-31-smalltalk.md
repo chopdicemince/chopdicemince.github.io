@@ -50,6 +50,6 @@ The home page of Amber describes Amber as:
 
 [The Amber website has an online, short, interactive tutorial.](https://amber-lang.net/learn.html)
 
-# what is the license of Amber?
+# What is the license of Amber?
 
 [Amber used to be a GitHub project](https://github.com/amber-smalltalk/amber), but [Amber is now a Gogs project](https://lolg.it/amber/amber). The [license of Amber](https://lolg.it/amber/amber/src/master/LICENSE) is an [MIT license](https://opensource.org/licenses/MIT).
