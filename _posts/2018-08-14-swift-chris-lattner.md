@@ -6,7 +6,7 @@ date: 2018-08-14
 
 # What is Swift? Who is Chris Lattner?
 
-[Swift](https://swift.org/) is a programming language created in 2010 by [Chris Lattner](http://www.nondot.org/sabre/). Apple released Swift in 2014.
+[Swift](https://swift.org/) is a programming language created in 2010 by [Chris Lattner](http://www.nondot.org/sabre/), who worked at Apple. Apple released Swift in 2014.
 
 The [Apple web page about Swift](https://developer.apple.com/swift/) describes Swift as:
 
