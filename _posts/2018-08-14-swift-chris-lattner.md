@@ -19,3 +19,13 @@ The logo of Swift is a drawing of a swift (the bird).
 # What is the license of Swift?
 
 [Swift is a project on GitHub.](https://github.com/apple/swift) The [license of Swift](https://github.com/apple/swift/blob/master/LICENSE.txt) is the [Apache license, version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
+
+# What is LLVM?
+
+[LLVM](https://llvm.org/) is a project about writing modular code for compilers for any language. LLVM was created by Chris Lattner when he was at the [University of Illinois](https://illinois.edu/).
+
+According to the LLVM home page, "LLVM" is not an initialism. However, you might see "LLVM" described as "low-level virtual machine."
+
+# What is Clang?
+
+"Clang" stands for "C language family frontend for LLVM." Clang is a project about writing code for LLVM to compile the C language family: C, C++, Objective C, Objective C++, [CUDA](https://developer.download.nvidia.com/compute/cuda/1.0/NVIDIA_CUDA_Programming_Guide_1.0.pdf) (Compute Unified Device Architecture), and [RenderScript](https://source.android.com/devices/architecture/vndk/renderscript). Clang was created by Chris Lattner.
