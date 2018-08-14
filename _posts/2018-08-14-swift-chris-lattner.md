@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Swift, Chris Lattner
-date: 2018-08-04
+date: 2018-08-14
 ---
 
 # What is Swift? Who is Chris Lattner?
