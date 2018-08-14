@@ -28,4 +28,4 @@ According to the LLVM home page, "LLVM" is not an initialism. However, you might
 
 # What is Clang?
 
-"Clang" stands for "C language family frontend for LLVM." Clang is a project about writing code for LLVM to compile the C language family: C, C++, Objective C, Objective C++, [CUDA](https://developer.download.nvidia.com/compute/cuda/1.0/NVIDIA_CUDA_Programming_Guide_1.0.pdf) (Compute Unified Device Architecture), and [RenderScript](https://source.android.com/devices/architecture/vndk/renderscript). Clang was created by Chris Lattner.
+"Clang" stands for "C language family frontend for LLVM." Clang is a project about writing code for LLVM to compile the C language family: C, C++, Objective C, Objective C++, NVIDIA [CUDA](https://developer.download.nvidia.com/compute/cuda/1.0/NVIDIA_CUDA_Programming_Guide_1.0.pdf) (Compute Unified Device Architecture), and [RenderScript](https://source.android.com/devices/architecture/vndk/renderscript). Clang was created by Chris Lattner.
