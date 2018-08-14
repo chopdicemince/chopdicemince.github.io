@@ -12,7 +12,7 @@ The [Apple web page about Swift](https://developer.apple.com/swift/) describes S
 
 > Swift is a powerful and intuitive programming language for macOS, iOS, watchOS and tvOS.
 
-Swift is a replacement for Objective C.
+Swift is a replacement for Objective C, but it can be used with Objective C.
 
 The logo of Swift is a drawing of a swift (the bird).
 
