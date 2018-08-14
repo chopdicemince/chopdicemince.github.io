@@ -22,7 +22,7 @@ The logo of Swift is a drawing of a swift (the bird).
 
 # What is LLVM?
 
-[LLVM](https://llvm.org/) is a project about writing modular code for compilers for any language. LLVM was created by Chris Lattner when he was at the [University of Illinois](https://illinois.edu/).
+[LLVM](https://llvm.org/) is a project about writing modular code for compilers for any language. LLVM was created by Chris Lattner when he was at the [University of Illinois](https://illinois.edu/). His adviser was [Vikram Adve](http://vikram.cs.illinois.edu/). See [Why Apple's Swift Language Will Instantly Remake Computer Programming](https://www.wired.com/2014/07/apple-swift/).
 
 According to the LLVM home page, "LLVM" is not an initialism. However, you might see "LLVM" described as "low-level virtual machine."
 
