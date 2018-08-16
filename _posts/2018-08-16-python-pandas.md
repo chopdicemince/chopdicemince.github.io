@@ -19,3 +19,7 @@ The [documentation of pandas](https://pandas.pydata.org/pandas-docs/stable/) des
 # What is the license of pandas?
 
 [pandas is a project on GitHub.](https://github.com/pandas-dev/pandas) The [license of pandas](https://github.com/pandas-dev/pandas/blob/master/LICENSE) is the [BSD (Berkeley System Distribution) 3-clause license](https://opensource.org/licenses/BSD-3-Clause).
+
+# How can I learn pandas?
+
+One way to learn pandas is to read (or type) the examples in the web page [10 Minutes to pandas¶](), which is part of the pandas documentation.
