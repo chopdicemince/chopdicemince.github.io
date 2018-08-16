@@ -22,4 +22,4 @@ The [documentation of pandas](https://pandas.pydata.org/pandas-docs/stable/) des
 
 # How can I learn pandas?
 
-One way to learn pandas is to read (or type) the examples in the web page [10 Minutes to pandas¶](), which is part of the pandas documentation.
+One way to learn pandas is to read (or type) the examples in the web page [10 Minutes to pandas¶](https://pandas.pydata.org/pandas-docs/stable/10min.html), which is part of the pandas documentation.
