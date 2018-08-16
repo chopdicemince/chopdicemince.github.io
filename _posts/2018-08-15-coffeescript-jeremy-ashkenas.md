@@ -8,8 +8,6 @@ date: 2018-08-15
 
 "CoffeeScript" is a pun on "JavaScript." [CoffeeScript] is a programming language that was created in 2009 by Jeremy Ashkenas. The home page describes CoffeeScript as:
 
-> CoffeeScript is a little language that compiles into JavaScript...
->
 > The golden rule of CoffeeScript is: “It’s just JavaScript.” The code compiles one-to-one into the equivalent JS, and there is no interpretation at runtime. You can use any existing JavaScript library seamlessly from CoffeeScript (and vice-versa). The compiled output is readable, pretty-printed, and tends to run as fast or faster than the equivalent handwritten JavaScript.
 
 See [CoffeeScript 2 Released, Adding Modern JavaScript Features](https://www.infoq.com/news/2017/10/coffeescript-2-released).
