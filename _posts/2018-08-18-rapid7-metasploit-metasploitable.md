@@ -20,7 +20,7 @@ date: 2018-08-18
 
 Metasploit has two versions:
 
-* [Metasploit Framework](https://github.com/rapid7/metasploit-framework) is a project on GitHub. [Different parts of Metasploit Frameork have different licenses.](https://github.com/rapid7/metasploit-framework/blob/master/LICENSE)
+* [Metasploit Framework](https://github.com/rapid7/metasploit-framework) is a project on GitHub. [Different parts of Metasploit Framework have different licenses.](https://github.com/rapid7/metasploit-framework/blob/master/LICENSE)
 
 * [Metasploit Pro](https://www.rapid7.com/products/metasploit/download/pro/) charges you for support.
 
