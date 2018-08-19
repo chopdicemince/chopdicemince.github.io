@@ -34,14 +34,14 @@ See [Getting Started](https://metasploit.help.rapid7.com/docs).
 
 # What is Metasploitable?
 
-The [download page of Metasploitable](https://sourceforge.net/projects/metasploitable/) describes Metasploitable as:
+Metasploitable is a program from Rapid7. The [Rapid7 download page of Metasploitable](https://information.rapid7.com/download-metasploitable-2017.html) describes Metasploitable as:
 
-> Metasploitable is an intentionally vulnerable Linux virtual machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing techniques.
+> Metasploitable, the intentionally vulnerable target machine for evaluating Metasploit
 
 Also see [Metasploitable 2 Exploitability Guide](https://metasploit.help.rapid7.com/docs/metasploitable-2-exploitability-guide).
 
 When people say "Metasploitable," probably they are referring to one of the versions below:
 
-* [Metasploitable2](https://sourceforge.net/projects/metasploitable/) is avaialble for download on SourceForge. Metasploitable2 uses two licenses, a BSD (Berkeley System Distribution) License, and the GNU General Public License version 2.
+* [Metasploitable2]. The [SourceForge download page of Metasploitable2]((https://sourceforge.net/projects/metasploitable/) says that Metasploitable2 has two licenses: a BSD (Berkeley System Distribution) License, and the GNU General Public License version 2.
 
 * [Metasploitable3 is a project on GitHub.](https://github.com/rapid7/metasploitable3) The [license of Metasploitable3](https://github.com/rapid7/metasploitable3/blob/master/LICENSE) is a [BSD (Berkeley System Distribution) 3-clause license](https://opensource.org/licenses/BSD-3-Clause).
