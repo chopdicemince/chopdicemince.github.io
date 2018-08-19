@@ -4,7 +4,7 @@ title: Rapid7, Metasploit, Metasploitable
 date: 2018-08-18
 ---
 
-What is Rapid7?
+# What is Rapid7?
 
 [Rapid7](https://www.rapid7.com/) is a company whose global headquarters is in Boston, Massachusetts. Their website says:
 
