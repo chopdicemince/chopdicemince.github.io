@@ -18,10 +18,18 @@ date: 2018-08-18
 
 [Metasploit](https://www.metasploit.com/) is a set of programs for testing computer security, provided by Rapid7.
 
-Metasploit has two versions:
+Metasploit has various versions:
 
 * [Metasploit Framework](https://github.com/rapid7/metasploit-framework) is a project on GitHub. [Different parts of Metasploit Framework have different licenses.](https://github.com/rapid7/metasploit-framework/blob/master/LICENSE)
 
 * [Metasploit Pro](https://www.rapid7.com/products/metasploit/download/pro/) charges you for support.
+
+* Metasploit Express.
+
+* Metasploit Community.
+
+* Metasploit Nexpose Ultimate.
+
+See [Getting Started](https://metasploit.help.rapid7.com/docs).
 
 # What is Metasploitable?
