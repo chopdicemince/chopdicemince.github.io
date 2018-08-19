@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rapid7, Metaploit, Metasploitable
+title: Rapid7, Metasploit, Metasploitable
 date: 2018-08-18
 ---
 
