@@ -42,6 +42,6 @@ Also see [Metasploitable 2 Exploitability Guide](https://metasploit.help.rapid7.
 
 When people say "Metasploitable," probably they are referring to one of the versions below:
 
-* [Metasploitable2]. The [SourceForge download page of Metasploitable2]((https://sourceforge.net/projects/metasploitable/) says that Metasploitable2 has two licenses: a BSD (Berkeley System Distribution) License, and the GNU General Public License version 2.
+* Metasploitable2. The [SourceForge download page of Metasploitable2](https://sourceforge.net/projects/metasploitable/) says that Metasploitable2 has two licenses: a BSD (Berkeley System Distribution) License, and the GNU General Public License version 2.
 
 * [Metasploitable3 is a project on GitHub.](https://github.com/rapid7/metasploitable3) The [license of Metasploitable3](https://github.com/rapid7/metasploitable3/blob/master/LICENSE) is a [BSD (Berkeley System Distribution) 3-clause license](https://opensource.org/licenses/BSD-3-Clause).
