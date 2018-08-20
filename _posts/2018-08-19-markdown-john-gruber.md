@@ -21,3 +21,7 @@ GitHub has its own version of Markdown. See [Mastering Markdown](https://guides.
 # What does Markdown look like?
 
 [Matt Cone has a nice web page of examples in Markdown](https://www.markdownguide.org/basic-syntax). Matt Cone also wrote a free, downloadable book about Markdown, called [The Markdown Guide](https://www.markdownguide.org/book).
+
+# What is the file extension for Markdown?
+
+Markdown file names end with: .md
