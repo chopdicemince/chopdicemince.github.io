@@ -6,7 +6,7 @@ date: 2018-08-19
 
 # What is Markdown? Who is John Gruber?
 
-Markdown is a programing language created in or before 2004 by John Gruber. The [web page for Markdown by John Gruber](https://daringfireball.net/projects/markdown/) describes Markdown as:
+Markdown is a programing language created in or before 2004 by John Gruber. The [web page of Markdown by John Gruber](https://daringfireball.net/projects/markdown/) describes Markdown as:
 
 > Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 >
