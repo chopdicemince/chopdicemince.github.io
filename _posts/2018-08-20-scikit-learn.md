@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python: scikit-learn
+title: Python scikit-learn
 date: 2018-08-20
 ---
 
