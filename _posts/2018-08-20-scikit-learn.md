@@ -12,6 +12,8 @@ Contributions to scikit-learn have come from [INRIA](https://www.inria.fr/) (Fre
 
 Note: in Python, to import the scikit-learn module, type: ```import sklearn```
 
+See [About us](http://scikit-learn.org/stable/about.html).
+
 # What is the license of scikit-learn?
 
 [scikit-learn is a project on GitHub.](https://github.com/scikit-learn/scikit-learn) The [license of scikit-learn](https://github.com/scikit-learn/scikit-learn/blob/master/COPYING) is the [BSD (Berkeley System Distribution) 3-clause license](https://opensource.org/licenses/BSD-3-Clause).
