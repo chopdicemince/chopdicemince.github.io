@@ -10,7 +10,7 @@ date: 2018-08-21
 
 [ECMA (the European Computer Manufacturers Assocation) defines a standard for Eiffel.](https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-367.pdf) ECMA describes Eiffel as follows:
 
-> Eiffel was originally designed, as a method of software construction and a notation to support that method, in 1985. The first implementation, from Eiffel Software (then Interactive Software Engineering Inc.), was commercially released in 1986.
+> Eiffel was originally designed, as a method of software construction and a notation to support that method, in 1985. The first implementation, from Eiffel Software (then Interactive Software Engineering Inc.), was commercially released in 1986. The principal designer of the first versions of the language was Bertrand Meyer.
 
 The FAQs (frequently asked questions) for Eiffel say:
 
