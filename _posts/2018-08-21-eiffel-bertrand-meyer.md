@@ -20,10 +20,12 @@ The FAQs also say that Betrand Meyer founded the company [Eiffel Software](https
 
 # What is "Design by Contract"?
 
-"[Design by Contract](https://www.eiffel.com/values/design-by-contract/)" is a trademark. It is an analogy used by Eiffel. If one piece of code uses another piece of code, then we can think of this situation as a client receiving a product from a supplier. The client and seller must satisfy a contract:
+"[Design by Contract](https://www.eiffel.com/values/design-by-contract/)" is a trademark. It is an analogy used by Eiffel. If one piece of code uses another piece of code, then we can think of this situation as a client's using a supplier. The client and seller use a contract. The following text is from [The Power of Design by Contract™](https://www.eiffel.com/values/design-by-contract/):
 
->    The supplier must provide a certain result (obligation) and is entitled to expect that the client has satisfied the requisite conditions (benefit).
+>    The supplier must provide a certain result (obligation) and is entitled to expect that the client has satisfied the requisite conditions (benefit).\
+>
 >    The client must satisfy these conditions (obligation) and is entitled to get the result (benefit).
+>
 >    Both parties must satisfy certain general laws and regulations, applying to all contracts.
 
 # What is Eiffel Studio?
