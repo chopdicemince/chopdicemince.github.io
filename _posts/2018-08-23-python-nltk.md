@@ -6,7 +6,7 @@ date: 2018-08-23
 
 # What is NLTK?
 
-"NTLK" stands for "natuaral language toolkit." [NLTKL](http://www.nltk.org/) is a module/library for Python that was created in 2001 by Steven Bird and Edward Loper, at the University of Pennsylvania.
+"NTLK" stands for "natuaral language toolkit." [NLTK](http://www.nltk.org/) is a module/library for Python that was created in 2001 by Steven Bird and Edward Loper, at the University of Pennsylvania.
 
 # What is the license of NLTK?
 
