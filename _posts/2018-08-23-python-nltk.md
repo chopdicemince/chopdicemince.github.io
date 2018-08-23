@@ -10,4 +10,4 @@ date: 2018-08-23
 
 # What is the license of NLTK?
 
-[NLTK is a project on GitHub.](https://github.com/nltk/nltk The [license of NLTK](https://github.com/nltk/nltk/blob/develop/LICENSE.txt) is the [Apache License, Version 2.0](https://www.apache.org/licenses/).
+[NLTK is a project on GitHub.](https://github.com/nltk/nltk) The [license of NLTK](https://github.com/nltk/nltk/blob/develop/LICENSE.txt) is the [Apache License, Version 2.0](https://www.apache.org/licenses/).
