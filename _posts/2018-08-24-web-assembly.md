@@ -8,7 +8,7 @@ date: 2018-08-24
 
 [WebAssembly](https://webassembly.org/), abbreviated as "Wasm," is a programming language for web browsers. 
 
-The web page [](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts) describes WebAssembly as:
+[Mozilla](https://www.mozilla.org/en-US/), creator of the web broser Firefox, wrote a web page called [WebAssembly Concepts](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts). This web page describes WebAssembly as:
 
 > It [WebAssembly] is not primarily intended to be written by hand, rather it is designed to be an effective compilation target for low-level source languages like C, C++, Rust, etc.
 >
