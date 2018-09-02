@@ -42,8 +42,8 @@ For example, see [Improved Pediatric MR Imaging with Compressed Sensing](https:/
 
 Compressed sensing uses the following math topics:
 
-* Vector spaces (inner products).
-* Real analysis (p-norms).
+* Vector spaces (inner products, null space).
+* Real analysis (p-norms, Cauchy-Schwarz inequality, Holder's inequality).
 * Linear algebra (matrices).
 * Optimization (nonlinear, minimization, convexity).
 
