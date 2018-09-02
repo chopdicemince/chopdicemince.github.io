@@ -45,4 +45,4 @@ Compressed sensing uses the following math topics:
 * Vector spaces (inner products).
 * Real analysis (p-norms).
 * Linear algebra (matrices).
-* Optimization (minimization, convexity).
+* Optimization (nonlinear, minimization, convexity).
