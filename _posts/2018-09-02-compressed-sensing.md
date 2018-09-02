@@ -18,6 +18,6 @@ In 1928, Nyquist published his most famous paper: [Certain Topics in Telegraph T
 
 # What is a sparse signal?
 
-A signal is __sparse__ if it has "very few" nonzero coefficients (when it is represented in some basis.)
+A signal is __sparse__ if it has "very few" nonzero coefficients (when it is represented in some basis).
 
 Sparse approximations are used in the image format JPEG (Joint Photographic Experts Group), and in the video formats MPEG (Moving Picture Experts Group), which includes [MP3](https://www.loc.gov/preservation/digital/formats/fdd/fdd000012.shtml).
