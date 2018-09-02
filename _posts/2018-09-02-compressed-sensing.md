@@ -21,3 +21,11 @@ In 1928, Nyquist published his most famous paper: [Certain Topics in Telegraph T
 A signal is __sparse__ if it has "very few" nonzero coefficients (when it is represented in some basis).
 
 Sparse approximations are used in the image format JPEG (Joint Photographic Experts Group), and in the video formats MPEG (Moving Picture Experts Group), which includes [MP3](https://www.loc.gov/preservation/digital/formats/fdd/fdd000012.shtml).
+
+# What is compressed sensing?
+
+Compressed sensing is a field of study which tries to simplify sparse signals---for example, by decreasing the number of samples.
+
+The ideas of compressed sensing have been around for a long time, since 1795 or earlier.
+
+Rather than sampling a signal at specified times, compressed sensing algorithms usually compute inner products between the signal and certain test functions---often, these test functions are created with some randomness.
