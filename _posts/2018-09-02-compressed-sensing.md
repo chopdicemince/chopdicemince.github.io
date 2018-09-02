@@ -51,10 +51,10 @@ Compressed sensing uses the following math topics:
 
 A sensing matrix is a matrix which maps a signal to a meausurement. For example, consider a matrix equation y = Ax:
 
-* A be an n x m matrix of real numbers. A is a sensing matrix.
+* A is a sensing matrix. A is an n x m matrix of real numbers.
 
 * x is a signal. x is a vector of length n of real numbers.
 
-* y is be a measurement of the signal x. y is a vector of length m of real numbers. m is much smaller than n.
+* y is a measurement of the signal x. y is a vector of length m of real numbers. m is much smaller than n.
 
 Compressed sensing tries to solve the following problem: How do we construct a sensing matrix so that we can easily recover a signal from the measurement of the signal?
