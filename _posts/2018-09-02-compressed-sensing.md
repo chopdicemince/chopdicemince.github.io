@@ -37,3 +37,12 @@ Yes, people have used compressed sensing in real-world applications.
 For example, see [Improved Pediatric MR Imaging with Compressed Sensing](https://pubs.rsna.org/doi/10.1148/radiol.10091218). The begining of the paper has the following short conclusion:
 
 > A combination of parallel imaging and compressed sensing is feasible in a clinical setting and may provide higher resolution and/or faster imaging, addressing the challenge of delineating anatomic structures in pediatric MR imaging.
+
+# What math topics does compressed sensing use?
+
+Compressed sensing uses the following math topics:
+
+* Vector spaces (inner products).
+* Real analysis (p-norms).
+* Linear algebra (matrices).
+* Optimization (minimization, convexity).
