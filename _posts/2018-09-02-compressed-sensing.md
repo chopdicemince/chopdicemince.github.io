@@ -29,3 +29,11 @@ Compressed sensing is a field of study which tries to simplify sparse signals---
 The ideas of compressed sensing have been around for a long time, since 1795 or earlier.
 
 Rather than sampling a signal at specified times, compressed sensing algorithms usually compute inner products between the signal and certain test functions---often, these test functions are created with some randomness.
+
+# Have people used compressed sensing in real-world applications?
+
+Yes, people have used compressed sensing in real-world applications.
+
+For example, see [Improved Pediatric MR Imaging with Compressed Sensing](https://chopdicemince.github.io/blog/2018/09/02/compressed-sensing). The begining of the paper has the following short conlusion:
+
+> A combination of parallel imaging and compressed sensing is feasible in a clinical setting and may provide higher resolution and/or faster imaging, addressing the challenge of delineating anatomic structures in pediatric MR imaging.
