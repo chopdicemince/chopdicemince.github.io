@@ -6,7 +6,7 @@ date: 2018-09-01
 
 # What is IBM SPSS Statistics?
 
-[IBM SPSS Statistics](https://chopdicemince.github.io/blog/), sometimes called just "SPSS" (pronounce the letters separately), is a statistics program.
+[IBM SPSS Statistics](https://www.ibm.com/analytics/spss-statistics-software), sometimes called just "SPSS" (pronounce the letters separately), is a statistics program.
 
 # What is SPSS?
 
