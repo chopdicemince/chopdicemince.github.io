@@ -24,7 +24,7 @@ Sparse approximations are used in the image format JPEG (Joint Photographic Expe
 
 # What is compressed sensing?
 
-Compressed sensing is a field of study which tries to simplify sparse signals---for example, by decreasing the number of samples.
+Compressed sensing is a field of study which tries to simplify sparse signals---for example, by greatly decreasing the number of samples.
 
 The ideas of compressed sensing have been around for a long time, since 1795 or earlier.
 
