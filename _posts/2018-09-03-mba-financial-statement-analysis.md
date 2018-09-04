@@ -39,7 +39,7 @@ A 10-K form is sometimes called just "10-K" (pronounced as "ten K").
 * A 10-K contains the four financial statements mentioned above: balance sheet, income statement, statement of stockholders' equity, and statement of cash flows.
 * A 10-K contains a section called: [Management's Discussion & Analysis of Financial Condition and Results of Operations](https://www.sec.gov/news/press/2003-179.htm). Often, people refer to this section as "MD & A" (pronounce the letters separately).
 
-10-Ks can be found on [EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html). For example, enter "Berkshire Hathaway Inc" in the search box labeled "Comany Name," click "Search," and then click "0001067983."
+10-Ks can be found on [EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html). For example, enter "Berkshire Hathaway Inc" in the search box labeled "Comany Name," click "Search," and then click "0001067983." Look for "10-K" in the column called "Filings."
 
 # What is a 10-Q form?
 
@@ -50,7 +50,7 @@ A 10-Q form is sometimes called just "10-Q" (pronounced as "ten Q").
 * A 10-Q contains __summaries__ of the four financial statements mentioned above: balance sheet, income statement, statement of stockholders' equity, and statement of cash flows.
 * A 10-Q contains limited disclosures.
 
-10-Qs can be found on [EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html). For example, enter "Berkshire Hathaway Inc" in the search box labeled "Comany Name," click "Search," and then click "0001067983."
+10-Qs can be found on [EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html). For example, enter "Berkshire Hathaway Inc" in the search box labeled "Comany Name," click "Search," and then click "0001067983." Look for "10-Q" in the column called "Filings."
 
 # What are the International Financial Reporting Standards?
 
