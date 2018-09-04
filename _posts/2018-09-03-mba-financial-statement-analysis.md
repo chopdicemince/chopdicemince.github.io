@@ -47,3 +47,13 @@ A 10-Q form is sometimes called just "10-Q" (pronounced as "ten Q").
 * A 10-Q is __not__ audited.
 * A 10-Q contains __summaries__ of the four financial statements mentioned above: balance sheet, income statement, statement of stockholders' equity, and statement of cash flows.
 * A 10-Q contains limited disclosures.
+
+# What are the International Financial Reporting Standards?
+
+The [International Financial Reporting Standards (IFRS)](https://www.ifrs.org/) are standards created by the IFRS Foundation. The [IFRS About us page](https://www.ifrs.org/about-us/) says:
+
+> The IFRS® Foundation is a not-for-profit international organisation responsible for developing a single set of high-quality global accounting standards, known as IFRS Standards. 
+>
+> Our mission is to develop standards that bring transparency, accountability and efficiency to financial markets around the world. Our work serves the public interest by fostering trust, growth and long-term financial stability in the global economy.
+
+Many countries use the IFRS. For a map and list of these countries, see [Who uses IFRS Standards?](https://www.ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/).
