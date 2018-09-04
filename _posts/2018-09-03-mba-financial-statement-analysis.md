@@ -29,3 +29,21 @@ date: 2018-09-03
 "EDGAR" (pronounced like the name "Edgar") stands for "Electronic Data Gathering, Analysis, and Retrieval system." The [EDGAR home page](https://www.sec.gov/edgar/aboutedgar.htm) says:
 
 > EDGAR...performs automated collection, validation, indexing, acceptance, and forwarding of submissions by companies and others who are required by law to file forms with the U.S. Securities and Exchange Commission (SEC). Its primary purpose is to increase the efficiency and fairness of the securities market for the benefit of investors, corporations, and the economy by accelerating the receipt, acceptance, dissemination, and analysis of time-sensitive corporate information filed with the agency.
+
+# What is a 10-K form?
+
+A 10-K form is sometimes called just "10-K" (pronounced as "ten K").
+
+* A 10-K is submitted to the SEC, every year, by every publicly traded company.
+* A 10-K is audited.
+* A 10-K contains the four financial statements mentioned above: balance sheet, income statement, statement of stockholders' equity, and statement of cash flows.
+* A 10-K contains a section called: [Management's Discussion & Analysis of Financial Condition and Results of Operations](https://www.sec.gov/news/press/2003-179.htm). Often, people refer to this section as "MD & A" (pronounce the letters separately).
+
+# What is a 10-Q form?
+
+A 10-Q form is sometimes called just "10-Q" (pronounced as "ten Q").
+
+* A 10-Q is submitted to the SEC, every quarter, by every publicly traded company.
+* A 10-Q is __not__ audited.
+* A 10-Q contains __summaries__ of the four financial statements mentioned above: balance sheet, income statement, statement of stockholders' equity, and statement of cash flows.
+* A 10-Q contains limited disclosures.
