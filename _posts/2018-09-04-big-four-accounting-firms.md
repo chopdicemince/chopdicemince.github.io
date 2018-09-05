@@ -19,8 +19,11 @@ date: 2018-09-04
 > KPMG was formed in 1987 with the merger of Peat Marwick International (PMI) and Klynveld Main Goerdeler (KMG) and their individual member firms. Spanning three centuries, the organization's history can be traced through the names of its principal founding members - whose initials form the name "KPMG."
 >
 > K stands for Klynveld. Piet Klynveld founded the accounting firm Klynveld Kraayenhof & Co. in Amsterdam in 1917.
+>
 > P is for Peat. William Barclay Peat founded the accounting firm William Barclay Peat & Co. in London in 1870.
+>
 > M stands for Marwick. James Marwick founded the accounting firm Marwick, Mitchell & Co. with Roger Mitchell in New York City in 1897.
+>
 > G is for Goerdeler. Dr. Reinhard Goerdeler was for many years chairman of Deutsche Treuhand-Gesellschaft and later chairman of KPMG. He is credited with laying much of the groundwork for the KMG merger.
 
 4. [PwC (PricewaterhouseCoopers)](https://www.pwc.com/us/en.html). See [History and milestones](https://www.pwc.com/us/en/about-us/pwc-corporate-history.html):
