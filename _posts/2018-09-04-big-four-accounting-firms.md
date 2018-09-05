@@ -23,6 +23,6 @@ date: 2018-09-04
 > M stands for Marwick. James Marwick founded the accounting firm Marwick, Mitchell & Co. with Roger Mitchell in New York City in 1897.
 > G is for Goerdeler. Dr. Reinhard Goerdeler was for many years chairman of Deutsche Treuhand-Gesellschaft and later chairman of KPMG. He is credited with laying much of the groundwork for the KMG merger.
 
-4. [PwC (PricewaterhouseCoopers)](https://www.pwc.com/us/en.html). See [History and milestones](https://www.pwc.com/us/en.html):
+4. [PwC (PricewaterhouseCoopers)](https://www.pwc.com/us/en.html). See [History and milestones](https://www.pwc.com/us/en/about-us/pwc-corporate-history.html):
 
 > Formed in 1998 from a merger between Price Waterhouse and Coopers & Lybrand, PwC has a history in client services that dates back to the nineteenth century. Both accounting firms originated in London during the mid 1800s.
